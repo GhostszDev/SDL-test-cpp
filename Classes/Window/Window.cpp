@@ -1,7 +1,3 @@
-//
-// Created by Steven Rivera on 9/9/19.
-//
-
 #include "Window.h"
 
 bool Window::inti() {
